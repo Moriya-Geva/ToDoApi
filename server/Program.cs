@@ -70,5 +70,6 @@ app.MapDelete("/{id}", async (ToDoDbContext t, int id) =>
     return Results.NoContent(); 
 });
 
-app.UseCors("Everything"); 
+app.UseCors("Everything");
+app.MapGet("/", () => "server API is running");
 app.Run();

@@ -1,5 +1,5 @@
 import axios from 'axios';
-const apiUrl = "http://localhost:5017/"; 
+const apiUrl =process.env.REACT_APP_API_URL;
 // axios.defaults.baseURL = "http://localhost:5017";
 
 // הוספת interceptor שתופס את השגיאות
