@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3dKILot/j4=",
+  "dgSpecHash": "C0JaXW8nJJ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moriya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -29,6 +29,7 @@
     "C:\\Users\\Moriya\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Moriya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
     "C:\\Users\\Moriya\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.1\\pomelo.entityframeworkcore.mysql.8.0.1.nupkg.sha512",

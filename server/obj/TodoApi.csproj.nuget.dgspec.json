@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Moriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Moriya\\Documents\\Programming\\Year 2 programming\\Practicode\\TodoApi\\server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
