@@ -30,11 +30,11 @@ export default {
   },
 
   setCompleted: async(id, isComplete)=>{
-    console.log('setCompleted', {id, isComplete})
+    console.log('setCompleted', `${apiUrl}/${id}`)
     //TODO
     try {
       
-      const result = await axios.put(`${apiUrl}${id}`, { isComplete });
+      const result = await axios.put(`${apiUrl}/${id}`, { isComplete });
       return result.data;
     } catch (error) {
       console.error("Error setting completion:", error);
@@ -46,7 +46,7 @@ export default {
     console.log(`Deleting task at: ${apiUrl}/${id}`);
     console.log('deleteTask')
     try {
-      await axios.delete(`${apiUrl}${id}`);
+      await axios.delete(`${apiUrl}/${id}`);
       return { success: true };}
      catch (error) {
       console.error("Error deleting task:", error);
